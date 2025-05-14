@@ -1,7 +1,8 @@
 const tracks = [
   'assets/clip1.mp3',
   'assets/clip2.mp3',
-  'assets/clip3.mp3'
+  'assets/clip3.mp3',
+  'assets/clip4.mp3'
 ];
 
 let current = 0;
