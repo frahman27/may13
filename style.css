@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: url('assets/backdrop.jpg') no-repeat center center fixed;
+  background: url('assets/backdrop.png') no-repeat center center fixed;
   background-size: cover;
   display: flex;
   justify-content: center;
